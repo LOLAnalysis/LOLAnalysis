@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: lol_raw
+    database: league-of-legend-498906
+    schema: LOL
+    tables:
+      - name: champs
+      - name: participants
+      - name: stats1
+      - name: stats2
+      - name: matches
