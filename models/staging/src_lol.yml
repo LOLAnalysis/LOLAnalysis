@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: bq_raw
+    project: league-of-legend-498906
+    dataset: LOL
+    tables:
+      - name: matches
+      - name: teamstats
+      - name: stats1
+      - name: stats2
+      - name: participants
