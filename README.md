@@ -78,3 +78,5 @@ Projenin modüler dbt ve analiz yapısı şu şekildedir:
 ## 👥 Katkıda Bulunanlar
 
 * **Ertuğrul Karamanlı** - [LinkedIn](https://www.linkedin.com/in/ertugrulkaramanli/) | [GitHub](https://github.com/ErtugrulKaramanli)
+* **Yudum Ergün** - [LinkedIn](https://www.linkedin.com/in/yudum-erg%C3%BCn/) | [GitHub](https://github.com/yudumerg)
+* **Özge Efe** - [LinkedIn](https://www.linkedin.com/in/aozgeefe/) | [GitHub](https://github.com/ozgeefe)
